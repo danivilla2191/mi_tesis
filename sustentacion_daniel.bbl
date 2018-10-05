@@ -1,0 +1,210 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{ser_temp_1}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {A.}{A.}%
+     {Alonso}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {Universidad Carlos III de Madrid}%
+  }
+  \strng{namehash}{AA1}
+  \strng{fullhash}{AA1}
+  \field{sortinit}{A}
+  \field{title}{Introducción al Análisis de Series Temporales}
+  \verb{url}
+  \verb http://halweb.uc3m.es/esp/Personal/personas/amalonso/esp/seriestemporal
+  \verb es.pdf
+  \endverb
+  \field{year}{2007}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{hora_sol_pico}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {A.}{A.}%
+     {Sarmiento}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {Centro de Estudio de Tecnologías Energéticas Renovables}%
+  }
+  \strng{namehash}{AS1}
+  \strng{fullhash}{AS1}
+  \field{sortinit}{A}
+  \field{title}{La Hora Sol Pico}
+  \verb{url}
+  \verb http://www.cubasolar.cu/biblioteca/energia/Energia22/HTML/articulo03.ht
+  \verb m
+  \endverb
+\endentry
+
+\entry{fisicasol}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Chen}{C.}%
+     {Julian}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Jhon Wiley \& Sons,Inc}%
+  }
+  \strng{namehash}{CJ1}
+  \strng{fullhash}{CJ1}
+  \field{sortinit}{C}
+  \field{title}{Physics of Solar Energy}
+  \field{year}{2011}
+\endentry
+
+\entry{duffie2013solar}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Duffie}{D.}%
+     {John~A}{J.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Beckman}{B.}%
+     {William~A}{W.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Wiley \& Sons}%
+  }
+  \strng{namehash}{DJABWA1}
+  \strng{fullhash}{DJABWA1}
+  \field{sortinit}{D}
+  \field{title}{Solar engineering of thermal processes}
+  \field{year}{2013}
+\endentry
+
+\entry{spectral_rad}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {España}{E.}%
+     {Protección~Civil}{P.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {Protección Civil España}%
+  }
+  \strng{namehash}{EPC1}
+  \strng{fullhash}{EPC1}
+  \field{sortinit}{E}
+  \field{title}{Radiación Solar}
+  \verb{url}
+  \verb http://www.proteccioncivil.es/catalogo/carpeta02/carpeta24/vademecum17/
+  \verb vdm052.htm
+  \endverb
+\endentry
+
+\entry{predicc_solar}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {I.}{I.}%
+     {Zamarbide}{Z.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{IZ1}
+  \strng{fullhash}{IZ1}
+  \field{sortinit}{I}
+  \field{title}{Predicción de Radiación Solar a Corto y Medio Plazo}
+  \list{institution}{1}{%
+    {Universidad Pública de Navarro}%
+  }
+  \field{type}{mathesis}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{johnson1954solar}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Johnson}{J.}%
+     {Francis~S}{F.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{JFS1}
+  \strng{fullhash}{JFS1}
+  \field{sortinit}{J}
+  \field{number}{6}
+  \field{pages}{431\bibrangedash 439}
+  \field{title}{The solar constant}
+  \field{volume}{11}
+  \field{journaltitle}{Journal of Meteorology}
+  \field{year}{1954}
+\endentry
+
+\entry{scatter}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pidwirny}{P.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PM1}
+  \strng{fullhash}{PM1}
+  \field{sortinit}{P}
+  \field{title}{Atmospheric Effects on Incoming Solar Radiation}
+  \verb{url}
+  \verb http://www.physicalgeography.net/fundamentals/7f.html
+  \endverb
+  \field{year}{2006}
+\endentry
+
+\entry{ser_tmp_2}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sánchez~M.}{S.~M.}%
+     {García~C.}{G.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {Universidad Politécnica de Madrid}%
+  }
+  \strng{namehash}{SMGC1}
+  \strng{fullhash}{SMGC1}
+  \field{sortinit}{S}
+  \field{title}{Series Temporales Univariantes}
+  \verb{url}
+  \verb http://www.etsii.upm.es/ingor/estadistica/Carol/SeriesUNIV_MIO_MP.pdf
+  \endverb
+  \verb{file}
+  \verb :Desktop/Tesis/Bibliografia/ARMA,ARIMA/arma_series_temporales.pdf:PDF
+  \endverb
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

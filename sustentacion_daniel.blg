@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sustentacion_daniel.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: sustentacion_daniel-blx.bib
+Database file #2: dddddd.bib
+Biblatex version: 3.3
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 10 entries,
+            6047 wiz_defined-function locations,
+            1181 strings with 9366 characters,
+and the built_in function-call counts, 32159 in all, are:
+= -- 1695
+> -- 1021
+< -- 446
++ -- 404
+- -- 277
+* -- 1607
+:= -- 1842
+add.period$ -- 0
+call.type$ -- 10
+change.case$ -- 301
+chr.to.int$ -- 37
+cite$ -- 18
+duplicate$ -- 3481
+empty$ -- 3244
+format.name$ -- 460
+if$ -- 7602
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 0
+newline$ -- 210
+num.names$ -- 604
+pop$ -- 2917
+preamble$ -- 1
+purify$ -- 312
+quote$ -- 0
+skip$ -- 2163
+stack$ -- 0
+substring$ -- 1369
+swap$ -- 1085
+text.length$ -- 245
+text.prefix$ -- 9
+top$ -- 1
+type$ -- 362
+warning$ -- 0
+while$ -- 212
+width$ -- 0
+write$ -- 199

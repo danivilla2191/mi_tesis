@@ -1,3 +1,19 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
 \beamer@endinputifotherversion {3.36pt}
+\defcounter {refsection}{0}\relax 
 \select@language {spanish}
+\defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {1}{La Radiaci\IeC {\'o}n Solar}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{1}{El Sol}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{2}{Definiciones}{5}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{3}{Radiaci\IeC {\'o}n Solar Extraterrestre}{7}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{4}{Influencia de la Atm\IeC {\'o}sfera en la Radiaci\IeC {\'o}n Solar}{10}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{5}{Modelos de Radiaci\IeC {\'o}n Solar Diaria}{11}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{6}{Procesos Autoregresivos de Media M\IeC {\'o}vil (ARMA)}{12}{0}{1}
